@@ -1,4 +1,4 @@
-# Rubik-s_Cube
+# Rubik's_Cube
 Rubik's Cube project for a computer graphics subject using OpenGL and C++.
 
 ## Installation
